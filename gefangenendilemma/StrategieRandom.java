@@ -1,4 +1,4 @@
-package javaHa08;
+package gefangenendilemma;
 
 import java.util.Random;
 

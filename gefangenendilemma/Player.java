@@ -1,4 +1,4 @@
-package javaHa08;
+package gefangenendilemma;
 
 public class Player {
 	
