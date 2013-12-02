@@ -1,4 +1,4 @@
-package gefangenendilemma;
+package javaHa08;
 
 public interface GefStrategie {
 	
