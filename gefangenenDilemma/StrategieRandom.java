@@ -1,4 +1,4 @@
-package gefangenendilemma;
+package gefangenenDilemma;
 
 import java.util.Random;
 

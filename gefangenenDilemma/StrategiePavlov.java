@@ -1,4 +1,4 @@
-package gefangenendilemma;
+package gefangenenDilemma;
 
 public class StrategiePavlov implements GefStrategie{
 
